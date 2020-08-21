@@ -1,0 +1,19 @@
+{
+    "title": "Nicolas Dehes",
+    "headerLinks":[
+      {"title":"Accueil", "path":"/"},
+      {"title":"A propes", "path":"/about"},
+      {"title":"Contact", "path":"/contact"}
+    ],
+    "home":{
+      "title": "Sois un truc",
+      "subTitle": "Les projects qui font la diff",
+      "text": "Regarde mes projets"
+    },
+    "about":{
+      "title":"A propos de moi"
+    },
+    "contact":{
+      "title":"Parlons ensemble"
+    }
+ }
